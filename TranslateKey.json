@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-freedom-346414",
+  "private_key_id": "42b12fd11ca4267a7529a829170f4f78c87c1984",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDljf9eEZRD0/SE\nhDeNrm0YTa4V4uLq2mGyEPuqMiq5Ovk+cOb1j1GfY+zozkHCiI1CwePMZxMdn6mY\nktwRnzN/PbyrJ/lPXG8ht3+0VWYgSUuJkn0kloPIaHEq37efWz9hptGlWFx8pdjU\nu3mwPbOvsDaZvwRkQAg5B90Ul46ZV4w1IMp7AVM0/JZgKVCw9XhSoLIM0UACTspS\nmh2MlacPaj0j49KzI5vM91SHZjZo6rjrBrRmCpN4RV8HEw91uUif+EADjn7u8rpE\nSq866GHXnltekgOrHcVQ/6a43RUDou4Pt9RwnwzvHetNSKtpI30vPwCP3gJmPHM9\n3vwvZ6FbAgMBAAECggEAaeD47FaHYFGe8pBZX0wYnaEWrpmbuF9JuGwE6BeDhTQi\nSh6hKJoWN8JLP4YC5ss8/JGZlGnmcz91Zh42yxn3ErVTFE63u1cTGyYcDP1mwXWN\nFcMvXXTfC8zAhdnyQ9o+fbgH8o+y+Ps168kc86FCA8LvLDLiv6qZIFT0L89Hwomz\nKAzFV9MGTAk1aRUjipQKtqwOtG//1txBjUp4zWKSy1sKJQVaxqiVUH4M1P2o2Rtf\n3ctW1ReyRWEqeIROxqhUybVDO+5y2BcZXPQP8WTmrAc5R5mU8Zw4+b/tnj6lEwxX\nrJbdzY+gH++HThlGywJx8tqRq97etHCSj2UiBlkuoQKBgQD7Vws0WCOFOEgbpYJW\ncPA9kJuin7vxSXOf2QWhdLBKs+g9l4xSVR1iEDEU1dydraqpUTkIACd0/LAxPMt9\nckK9hNK2QPPk0+yDYLjFPJePPBsumcK7lzXQkm9izSv05yiumXPNnJwu1brUTd9O\nziupMxe+l1iu8P6at18zRx/ZJwKBgQDpz41cGg46qzzZ9/rZUztI08f4a5Hd5CYP\n3oepdFCK4vY/Xq5tvEW+N4MYeS5JGYZhB0wGb7lA/j8rVjstgzdv9EYNDY6WHt6i\nlHUuAPwZOxXqAmfamQdE8h1uc0t4Pe9VcITpn6CC+g4IsDRwqE4AC+a4PqOoL/i2\nrwRuQohOrQKBgG3JeNB1i5Z+nijNZCCEFrydtQ4VPhBIqGPzdV0wTm1jJpf44cd4\n/GvAbOAQBt0tZfWtz/6pqpKUahYn2y9BwNtt8GjB+IdE9vPwROWK8R0VAT6a1ZAB\nnfUscdEzk/bXHlMeHpJ6zVI78+8W0OtobXPsKHwNOiS4ik5kuQX6FHRTAoGATkYB\nmPfQE6wH7yCphd/rVPIxW+UHLDWY2G8zE3OxEw3wSj60PmBtKMUEykinSimVZx4+\nQVldt3hmRWfU3+Oxx3ULjosfVPp4pgz1PbVusDOrnm+3vOLGIDq9x6Apf9OcMAo/\nNMcPwUldMWNr6tstYa6aSswNldyZcu8cmJ0FbPECgYEArgrR2yaIecNG6ImcpwM2\n67NWqvtEr+Kh/lv5B2LEE0reb9ryYNvc7Sv+0X/AEMnWbs6tcvMsL3i2FUz5WdyT\nEc/Yby5IQD+/CItJTMvQMNo+IBLE6qK54BkEP9NpAip/cxWfjkHbFDxHyDgwh6O2\nsq5DqrjywhDu9AscMIQICp4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "konatranslate@alpine-freedom-346414.iam.gserviceaccount.com",
+  "client_id": "104336000700225279759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/konatranslate%40alpine-freedom-346414.iam.gserviceaccount.com"
+}
